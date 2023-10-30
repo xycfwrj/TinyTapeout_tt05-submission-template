@@ -28,7 +28,7 @@ module seg7 (
             6:  segments = 7'b1111101;
             7:  segments = 7'b0000111;
             8:  segments = 7'b1111111;
-            9:  segments = 7'b1100111;
+            9:  segments = 7'b1101111;
             10: segments = 7'b1110111;
             11: segments = 7'b1111100;
             12: segments = 7'b0111001;
